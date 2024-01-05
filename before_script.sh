@@ -1,1 +1,1 @@
-pkill -f "nohup"
+pgrep -af "nohup node index.js"
